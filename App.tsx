@@ -10,6 +10,7 @@ import { Footer } from "./components/Footer";
 import { SEO } from "./components/SEO";
 import { CookieConsent } from "./components/CookieConsent";
 import { Toaster } from "./components/ui/sonner";
+import React from 'react'
 
 export default function App() {
   return (
